@@ -1,0 +1,1 @@
+This project uses CSS framework and some links coded in JavaScript to display my site I designed using HTML and CSS 

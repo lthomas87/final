@@ -1,0 +1,61 @@
+/* add style rules here to customize or adjust the MDL styles */
+
+.demo-card-wide.mdl-card {
+  width: 480px;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background-color: #4F6D93; 
+		background-image: linear-gradient(#fff, #4F6D93); 
+		background-repeat: no-repeat;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+.mdl-layout { 
+    background: url(../img/background-1.jpg) center / cover;
+        
+}
+header.mdl-layout__header {
+    background-color: transparent;
+}
+.mdl-card.mdl-cell {
+    width: 100%;
+}
+.mdl-card { width: 100%;
+
+}
+a { display: inline-block;
+    text-decoration: none; padding-right: 70px; }
+
+a:link {color: #0000CD;}
+
+a:visited {color: #c71585;}
+
+.mdl-card__title { background-color: #fff; }
+
+
+.site-footer__social-networks {
+    background-color: #000;
+    
+}
+.site-footer__social-networks__items {
+    list-style-type: none;
+    margin: 0;
+    padding: .625rem 0;
+    text-align: center;
+    font-size: 0;
+}
+.site-footer__social-networks__item {
+    display: inline-block;
+    margin: 0 .1875rem;
+    line-height: 1rem;
+}
+li.site-footer__social-networks__item {
+       line-height: 1rem;
+}
+#mobile { display: none; }
+
+#desktop { display: inline; }
